@@ -1,11 +1,11 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.svg
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: 위치
+    text: 세종특별자치시 집현중앙7로6, B동 609호
+  - heading: 업무 시간
+    text: "월요일 - 금요일: 9AM – 7PM 주말은 쉽니다."
 ---
 
 We’d love to get in touch with you and hear your ideas and
