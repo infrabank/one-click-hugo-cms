@@ -2,7 +2,7 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square150x150logo src="/img/mstile-150x150.png"/>
+      <square150x150logo src="img/infrabank_header_logo.png"/>
       <TileColor>#ff4400</TileColor>
     </tile>
   </msapplication>
