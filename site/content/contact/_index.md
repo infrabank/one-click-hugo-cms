@@ -1,6 +1,6 @@
 ---
-title: Contact
-logo: /img/logo.svg
+title: 연락처
+logo: img/infrabank_header_logo.png
 contact_entries:
   - heading: 위치
     text: 세종특별자치시 집현중앙7로6, B동 609호
