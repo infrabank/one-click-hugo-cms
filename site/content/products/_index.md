@@ -66,10 +66,9 @@ testimonials:
       their stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: 월간 구독모델
+  description: 저희는 맛있는 커피를 여러분의 삶의 일부로 만드는 것을 쉽게 해드립니다. 매월 고객님의 방문에서 맛있는 커피를 받으시려면
+    월간 구독 요금제 중 하나를 선택하세요. 자세한 정보 및 결제 정보에 대해서는 문의해 주십시오.
   plans:
     - description: 하루에 1-2컵 즐기는 커피 애호가에게 안성맞춤
       items:
