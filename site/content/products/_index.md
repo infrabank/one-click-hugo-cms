@@ -71,13 +71,13 @@ pricing:
     one of our monthly subscription plans to receive great coffee at your
     doorstep each month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: 하루에 1-2컵 즐기는 커피 애호가에게 안성맞춤
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: "50"
+        - 월 1Kg의 커피
+        - 생두 또는 원두
+        - 한~두개의 커피 원두
+      plan: 소형
+      price: 5만
     - description: Great for avid drinkers, java-nsoving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
