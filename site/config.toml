@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "ko-kr"
 languageLang = "ko"
-title = "Homepage"
+title = "인프라뱅크"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
